@@ -14,6 +14,12 @@ $ yarn install
 yarn start
 ```
 
+### Open Browser 
+
+```
+http://localhost:3666/graphql
+```
+
 ### Query Examples
 
 ```
