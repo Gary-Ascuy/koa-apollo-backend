@@ -1,0 +1,29 @@
+{
+  "name": "koa-apollo-backend",
+  "version": "1.0.0",
+  "description": "Minimal example to understand",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js --exec babel-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gary-Ascuy/koa-apollo-backend.git"
+  },
+  "author": "gary.ascuy@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gary-Ascuy/koa-apollo-backend/issues"
+  },
+  "homepage": "https://github.com/Gary-Ascuy/koa-apollo-backend#readme",
+  "dependencies": {
+    "apollo-server-koa": "^2.0.0-rc.12",
+    "graphql": "^14.0.2",
+    "koa": "^2.5.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^1.18.4"
+  }
+}
