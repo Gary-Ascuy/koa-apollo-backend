@@ -2,6 +2,18 @@
 
 Minimal example to understand
 
+### Setup
+
+```sh
+$ yarn install
+```
+
+### Start 
+
+```sh
+yarn start
+```
+
 ### Query Examples
 
 ```
